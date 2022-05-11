@@ -1,0 +1,13 @@
+.navbar{
+    height: inherit;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 1;
+    background-size: cover;
+    padding-bottom: 50px;
+    display: flex;
+    box-sizing: border-box;
+    transition: 0.5s ease;
+    flex-direction: column;
+}

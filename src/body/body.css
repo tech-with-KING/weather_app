@@ -1,0 +1,22 @@
+.article{
+    height: 399px;
+    margin: 10px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px;
+    box-shadow: 2px 6px 10px rgba(0,0,0,0.3) ;
+}
+
+.body{
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    flex-direction: column;
+    background-color:white;
+    transition: 1s }
